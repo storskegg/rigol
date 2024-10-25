@@ -21,5 +21,12 @@
 go.work
 go.work.sum
 
+# Project files
+.idea/
+
 # env file
 .env
+
+# vendor files
+vendor/
+
